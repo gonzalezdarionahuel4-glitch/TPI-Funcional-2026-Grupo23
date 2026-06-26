@@ -6,4 +6,4 @@ Materia: Paradigmas y Lenguajes de Programacion
 
 Tema: Semaforos inteligentes y su implementacion en LISP y HASKELL
 
-Enlace al video:
+Enlace al video: https://youtu.be/dNiWSdSgmsM
